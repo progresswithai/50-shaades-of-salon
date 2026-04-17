@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Apr 2026 18:35:16 at https://www.studio27hairsalon.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.studio27hairsalon.com/ -O1 "D:\realityfaces\50 shaades of salon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:37:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.studio27hairsalon.com/xmlrpc.php?rsd (from https://www.studio27hairsalon.com/)
+18:40:03	Error: 	"Not Found" (404) at link https://www.studio27hairsalon.com/wp-content/plugins/ht-mega-for-elementor/assets/css/img/others/business-shape.png (from https://www.studio27hairsalon.com/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-global-style.min.css?ver=3.0.7)
+18:40:03	Error: 	"Not Found" (404) at link https://www.studio27hairsalon.com/wp-content/plugins/ht-mega-for-elementor/assets/css/img/bg/bg-image-40.jpg (from https://www.studio27hairsalon.com/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-global-style.min.css?ver=3.0.7)
+18:40:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.studio27hairsalon.com/xmlrpc.php?rsd (from https://www.studio27hairsalon.com/)
+18:40:03	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=13044
+18:40:03	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=13044 to https://www.studio27hairsalon.com/about/
+18:40:03	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=996
+18:40:03	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=996 to https://www.studio27hairsalon.com/services/
+18:40:16	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=13043
+18:40:16	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=13043 to https://www.studio27hairsalon.com/contact/
+18:40:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.studio27hairsalon.com/xmlrpc.php?rsd (from https://www.studio27hairsalon.com/)
+18:41:00	Error: 	"Not Found" (404) at link https://www.studio27hairsalon.com/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://www.studio27hairsalon.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.10.0.2)
+18:41:40	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=15637
+18:41:40	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=15637 to https://www.studio27hairsalon.com/danaihair-com-perfect-silk-press-blend/
+18:41:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.studio27hairsalon.com/xmlrpc.php (from https://www.studio27hairsalon.com/danaihair-com-perfect-silk-press-blend/)
+18:41:40	Error: 	"Not Found" (404) at link https://www.studio27hairsalon.com/wp-json/wp/v2/users/2 (from https://www.studio27hairsalon.com/author/shawn/)
+18:41:40	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=15630
+18:41:40	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=15630 to https://www.studio27hairsalon.com/danaihair-com-luxury-body-wave-hair/
+18:41:40	Warning: 	Moved Permanently for https://www.studio27hairsalon.com/?p=13029
+18:41:40	Warning: 	File has moved from https://www.studio27hairsalon.com/?p=13029 to https://www.studio27hairsalon.com/why-i-finally-brought-danai-luxury-hair-to-studio-27/
+18:41:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.studio27hairsalon.com/xmlrpc.php (from https://www.studio27hairsalon.com/danaihair-com-perfect-silk-press-blend/)
+18:41:42	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.studio27hairsalon.com/xmlrpc.php (from https://www.studio27hairsalon.com/danaihair-com-perfect-silk-press-blend/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 26 seconds : 181 links scanned, 164 files written (12466912 bytes overall) [6975623 bytes received at 18071 bytes/sec], 8735344 bytes transferred using HTTP compression in 113 files, ratio 29%, 10.6 requests per connection
+(6 errors, 16 warnings, 0 messages)
